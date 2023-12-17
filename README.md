@@ -5,7 +5,7 @@ The objective of this project is to create a simple yet stylish airsoft kill cou
 ## TODO before first version
 
 ### Conception
-[] Create a class to control the 7 segments 4 digits.
+[x] Create a class to control the 7 segments 4 digits.
 [] Create a class to control the reset & add button.
 [] Separate the classes into files.
 [] Make a list of all final compoants for the project.
