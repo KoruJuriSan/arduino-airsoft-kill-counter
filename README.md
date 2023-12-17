@@ -5,17 +5,17 @@ The objective of this project is to create a simple yet stylish airsoft kill cou
 ## TODO before first version
 
 ### Conception
-[x] Create a class to control the 7 segments 4 digits.
-[] Create a class to control the reset & add button.
-[] Separate the classes into files.
-[] Make a list of all final compoants for the project.
-[] Create a 3D model to put the componants together on a Picatinny rail.
+- [x] Create a class to control the 7 segments 4 digits.
+- [] Create a class to control the reset & add button.
+- [] Separate the classes into files.
+- [] Make a list of all final compoants for the project.
+- [] Create a 3D model to put the componants together on a Picatinny rail.
 
 ### Finishing
-[] Add documentation for the code.
-[] Rename methods to better reflect their actual use.
-[] Split code into smaller parts (1-5 lines per method).
-[] finish github sections.
+- [] Add documentation for the code.
+- [] Rename methods to better reflect their actual use.
+- [] Split code into smaller parts (1-5 lines per method).
+- [] finish github sections.
 
 ## Componants
 
